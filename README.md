@@ -92,3 +92,8 @@ Black Friday deals (Cyber/OSINT/Infosec)
 **Link:** https://ine.com/
 **What:** Giving 40% off (BF40) for yearly subscription(s).
 
+
+**Maltronics**
+
+*No deal found*
+
