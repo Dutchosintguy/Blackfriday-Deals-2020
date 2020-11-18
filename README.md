@@ -8,6 +8,7 @@ Black Friday deals (Cyber/OSINT/Infosec)
 **Protonmail / ProtonVPn deal:**
 
 **Link:** https://protonmail.com/blog/black-friday-2020/
+
 **What:** Get up to 50% off a ProtonMail Plus and ProtonVPN Plus plan, you can also get free early access to ProtonDrive beta.
 
 
@@ -24,6 +25,7 @@ Black Friday deals (Cyber/OSINT/Infosec)
 **Hak5**
 
 **Link:** http://ss1.us/a/Dkpt296w
+
 **What:** Several discounts on products
 
 
@@ -45,6 +47,7 @@ Black Friday deals (Cyber/OSINT/Infosec)
 **NordVPN**
 
 **Link:** https://nordvpn.com/black-friday/
+
 **What:** Get 68% off and 3 months free
 
 
@@ -90,6 +93,7 @@ Black Friday deals (Cyber/OSINT/Infosec)
 **ine.com**
 
 **Link:** https://ine.com/
+
 **What:** Giving 40% off (BF40) for yearly subscription(s).
 
 
