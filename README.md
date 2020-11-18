@@ -2,7 +2,7 @@
 Black Friday deals (Cyber/OSINT/Infosec)
 
 
-##**Below a list of BlackFriday / CyberMonday deals that could be interesting for those who are part of the Cyber/OSINT/infosec Community:**
+##**Below a list of BlackFriday / CyberMonday / Thanksgiving deals that could be interesting for those who are part of the Cyber/OSINT/infosec Community:**
 
 
 **Protonmail / ProtonVPn deal:**
