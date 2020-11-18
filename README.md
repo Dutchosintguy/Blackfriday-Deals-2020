@@ -105,7 +105,7 @@ Black Friday deals (Cyber/OSINT/Infosec)
 
 **Link:** https://www.icsi.co.uk/pages/black-friday-offer
 
-**What** CSI,UK (International CyberSecurity Institute) giving 50% of courses using code BF50.
+**What:** CSI,UK (International CyberSecurity Institute) giving 50% of courses using code BF50.
 
 
 
