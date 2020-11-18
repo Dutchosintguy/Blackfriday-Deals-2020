@@ -81,3 +81,7 @@ Black Friday deals (Cyber/OSINT/Infosec)
 **Little Snitch**
 
 *No deal found*
+
+**Xmind**
+
+*No deal found*
