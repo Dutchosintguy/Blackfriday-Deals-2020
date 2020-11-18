@@ -85,3 +85,10 @@ Black Friday deals (Cyber/OSINT/Infosec)
 **Xmind**
 
 *No deal found*
+
+
+**ine.com**
+
+**Link:** https://ine.com/
+**What:** Giving 40% off (BF40) for yearly subscription(s).
+
