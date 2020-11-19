@@ -6,7 +6,7 @@
 
 
 ### Software
-
+---
 **Protonmail / ProtonVPn deal:**
 
 > **Link:** https://protonmail.com/blog/black-friday-2020/
@@ -82,7 +82,7 @@
 
 
 ### Hardware
-
+---
 **Hak5**
 
 > **Link:** http://ss1.us/a/Dkpt296w
@@ -103,7 +103,7 @@
 
 
 ### Books
-
+---
 **No Starch Press**
 
 > *No deal found* 
@@ -112,7 +112,7 @@
 
 
 ### Courses | Training 
-
+---
 **ine.com**
 
 > **Link:** https://ine.com/
