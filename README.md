@@ -99,7 +99,19 @@
 
 > *No deal found*
 
+**Sparkfun**
 
+> *No deal found*
+
+**Seeedstudio**
+
+> **Link:** https://www.seeedstudio.com/thanksgiving_50_off_sale.html
+
+> **What:** 50% of for more then 80 items with code THANKS50
+
+**RTl-SDR**
+
+> *No deal found*
 
 
 ### Books
@@ -125,6 +137,13 @@
 > **Link:** https://www.icsi.co.uk/pages/black-friday-offer
 
 > **What:** CSI,UK (International CyberSecurity Institute) giving 50% of courses using code BF50.
+
+
+**SANS**
+
+> **Link:** https://www.sans.org/specials/north-america/
+
+> **What:** Macbook Air, Microsoft Surface Pro 7 or $350 off with any 5 or 6 day course (till December 9, 2020)
 
 
 
