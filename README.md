@@ -27,8 +27,13 @@
 
 **Pastebin**
 
->*No deal found*
+> *No deal found*
 
+**XeroSecurity**
+
+> **Link:** https://xerosecurity.com/wordpress/black-friday-sale/
+
+> **What:** Discounts on portscanning software and more.
 
 **NordVPN**
 
@@ -113,6 +118,12 @@
 
 > *No deal found*
 
+**SOS Solution**
+
+> **Link:** https://www.sossolutions.nl/black-friday-2020
+
+> **What:** Several discounts on raspberry pi bundels and more
+
 
 ### Books
 ---
@@ -144,6 +155,12 @@
 > **Link:** https://www.sans.org/specials/north-america/
 
 > **What:** Macbook Air, Microsoft Surface Pro 7 or $350 off with any 5 or 6 day course (till December 9, 2020)
+
+**The OSINTion**
+
+> **Link:** https://blackfriday.theosintion.com/
+
+> **What:** 33% discount for all courses (Use code 2020BF1337OSINT) or take a discounted bundel
 
 
 
