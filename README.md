@@ -162,6 +162,11 @@
 
 > **What:** 33% discount for all courses (Use code 2020BF1337OSINT) or take a discounted bundel
 
+**OSINTcombine**
+
+> **Link:** https://academy.osintcombine.com
+
+> **What:** 40% off ALL courses until Sunday. Use the code BLACKFRIDAY at checkout
 
 
 
