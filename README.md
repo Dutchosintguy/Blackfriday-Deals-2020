@@ -7,7 +7,15 @@
 
 ### Software
 ---
-**Protonmail / ProtonVPn deal:**
+
+**Maltego**
+
+> **Link:** https://www.maltego.com/
+
+> **What:** 50% off discount for all purchase of the Maltego Pro subscription on the web shop, discount code: (To be announced)
+
+
+**Protonmail / ProtonVPN deal:**
 
 > **Link:** https://protonmail.com/blog/black-friday-2020/
 
