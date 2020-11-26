@@ -33,6 +33,13 @@
 > **What:** Buy 1 Year get 2 Years
 
 
+**Pulsedive Pro
+
+> **Link:** https://pulsedive.com/purchase/#pro
+
+> **What:** Try Pulsedive Pro for $5 with promo code TRYFOR5
+
+
 **Pastebin**
 
 > *No deal found*
@@ -91,6 +98,12 @@
 
 > *No deal found*
 
+**Burp Bounty Pro**
+
+> **Link:** https://order.shareit.com/cart/view
+
+> **What:** Burp Bounty 20% Discount with the code CYBERBOUNTY
+
 
 
 
@@ -105,7 +118,9 @@
 
 **Yubikey**
 
-> *No deal found*
+> **Link:** https://www.yubico.com/au/store/black-friday/
+
+> **What:** Discounts for yubikeys ranging from $20 to $250 off depending on the amount of yubikeys
 
 
 **Maltronics**
@@ -137,7 +152,9 @@
 ---
 **No Starch Press**
 
-> *No deal found* 
+> **Link:** https://nostarch.com/
+
+> **What:** Get 33.7% off EVERYTHING and free US shipping on orders $50+ (plus up to 20% off int'l rates) with code BLACKFRIDAY20
 
 
 
@@ -178,5 +195,13 @@
 
 
 
+
+### Other awesome infosec people that are collecting lists with Blackfroday deals
+
+> **0x90n** https://github.com/0x90n/InfoSec-Black-Friday
+
+> **instadoodledavid** https://github.com/instadoodledavid/Infosec-Deals-2020
+
+> **Securityinfos** https://github.com/Securityinfos/Black-Friday-Deals
 
 
