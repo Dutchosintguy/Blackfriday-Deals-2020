@@ -21,6 +21,12 @@
 > **What:** Get up to 50% off a ProtonMail Plus and ProtonVPN Plus plan, you can also get free early access to ProtonDrive beta.
 
 
+**FAW Forenciscs**
+
+> **Link:** https://en.fawproject.com/
+
+> **What:** 50% off for FAW Pro or FAW LE with code: BLACKFR20
+
 **Shodan**
 
 > *No deal found*
