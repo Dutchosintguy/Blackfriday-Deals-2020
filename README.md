@@ -12,8 +12,7 @@
 
 > **Link:** https://www.maltego.com/
 
-> **What:** 50% off discount for all purchase of the Maltego Pro subscription on the web shop, discount code: (To be announced)
-
+> **What:** 50% off discount for all purchase of the Maltego Pro subscription on the web shop, discount code: maltego@blackfriday
 
 **Protonmail / ProtonVPN deal:**
 
