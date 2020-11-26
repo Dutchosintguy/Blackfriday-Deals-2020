@@ -204,4 +204,6 @@
 
 > **Securityinfos** https://github.com/Securityinfos/Black-Friday-Deals
 
+> **Bleeping Computer** https://www.bleepingcomputer.com/news/security/the-best-black-friday-2020-security-it-vpn-and-antivirus-deals/
+
 
