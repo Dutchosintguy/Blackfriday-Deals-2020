@@ -130,7 +130,9 @@
 
 **Maltronics**
 
-> *No deal found*
+> **Link:** https://maltronics.com/collections/wifi-keyloggers
+
+> **What:** 20% off WiFi keyloggers
 
 **Sparkfun**
 
