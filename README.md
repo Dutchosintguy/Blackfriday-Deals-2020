@@ -196,7 +196,7 @@
 
 
 
-### Other awesome infosec people that are collecting lists with Blackfroday deals
+### Other awesome infosec people that are collecting lists with Blackfriday deals
 
 > **0x90n** https://github.com/0x90n/InfoSec-Black-Friday
 
