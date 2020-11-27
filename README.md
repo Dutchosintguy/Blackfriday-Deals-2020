@@ -209,6 +209,12 @@
 
 > **What:** 40% off ALL courses until Sunday. Use the code BLACKFRIDAY at checkout
 
+**DroneSec**
+
+> **Link:** https://training.dronesec.com
+
+> **What:** 65% discount on bundle with code: DONOTSHAREBLACKFRI, 20% discount on live training with code: BF20
+
 
 
 
