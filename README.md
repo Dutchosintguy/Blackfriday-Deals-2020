@@ -70,6 +70,13 @@
 > *No deal found*
 
 
+**Spyse.com**
+
+> **Link:** https://spyse.com/user/subscription
+
+> **What:** 50% off, the special offer will be available only for 24 hours on November 30th
+
+
 **Dehashded**
 
 > *No deal found*
@@ -77,7 +84,9 @@
 
 **Dashlane**
 
-> *No deal found*
+> **Link:** https://www.dashlane.com/
+
+> **What:** Dashlane Premium 50% off with code : WFH50
 
 
 **1Password**
