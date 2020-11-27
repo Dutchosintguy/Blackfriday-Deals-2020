@@ -118,7 +118,11 @@
 
 > **What:** Burp Bounty 20% Discount with the code CYBERBOUNTY
 
+**Detectify**
 
+> **Link:** https://detectify.com/lp/black-friday-professional-plan-offer
+
+> **What:** 20% off annual subscription + mention "Kate sent me", to get a cosy Go Hack Yourself hoodie with purchase.
 
 
 ### Hardware
