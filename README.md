@@ -81,6 +81,18 @@
 
 > *No deal found*
 
+**StandardNotes**
+
+> **Link:** https://dashboard.standardnotes.org/
+
+> **What:** 45% off on a 5 year plan
+
+**Devon Technologies**
+
+> **Link:** https://www.devontechnologies.com/promotions/blackfriday
+
+> **What:** 25% discount on various products
+
 
 **Dashlane**
 
