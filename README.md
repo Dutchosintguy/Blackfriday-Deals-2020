@@ -108,7 +108,9 @@
 
 **LastPass**
 
-> *No deal found*
+> **Link:** https://www.lastpass.com/offer/cyber-week-2020
+
+> **What:** 40% off LastPass Premium
 
 
 **Bitwarden**
